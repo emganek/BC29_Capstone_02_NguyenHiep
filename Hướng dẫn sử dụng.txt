@@ -1,0 +1,7 @@
+- Click vào tab Admin và Products ở thanh nav bar để chuyển qua lại giữa hai trang.
+- Link chứa source code:
+  + Trang Admin: https://github.com/emganek/BC29_Capstone_02_Admin_NguyenHiep.git
+  + Trang Products: https://github.com/emganek/BC29_Capstone_02_NguyenHiep.git
+- Link deploy:
+  + Trang Admin: https://emganek.github.io/BC29_Capstone_02_Admin_NguyenHiep/
+  + Trang Products: https://emganek.github.io/BC29_Capstone_02_NguyenHiep/
